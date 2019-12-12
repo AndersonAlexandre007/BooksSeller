@@ -1,0 +1,51 @@
+{
+    "products": [ 
+        {
+            "id": 100,
+            "title": "Steve Jobs",
+            "img": "1.jpg",
+            "autor": "Walter Isaacson",
+            "descricao": "A biografia escrita por Walter Isaacson",
+            "taxa": " 3,08% ",
+            "valor": 150
+            
+            
+        },
+        {
+            "id": 200,
+            "title": "Elon Musk",
+            "img": "2.jpg",            
+            "autor": "Ashlee Vance",
+            "drescicao": "A vida real de Tony Stark",
+            "taxa": "2,15%",
+            "valor": 200
+        },
+        {
+            "id": 300,
+            "title": "walt Disney",
+            "img": "3.jpg",
+            "autor": "Neal Gabler",
+            "drescicao": "O triunfo da imaginaçao americana",
+            "taxa": "5,01%",
+            "valor": 320
+        },
+        {
+            "id": 400,
+            "title": "Algoritmos - Lógica Para Desenvolvimento de Programação de Computadores",
+            "img": "4.jpg",
+            "autor": "Manzano,Jose Augusto N. G.Oliveira,Jayr Figueiredo",
+            "drescicao": "Breve análise da programação estruturada",
+            "taxa": "2,1%",
+            "valor": 126
+        },
+        {
+            "id": 500,
+            "title": "Html5 e Css3 - Guia Prático e Visual",
+            "img": "5.jpg",
+            "autor": "Castro,ElizabethHyslop,Bruceo",
+            "drescicao": "Seja um novato em HTML e CSS",
+            "taxa": "3,00%",
+            "valor": 77                   
+        }
+    ]
+}
